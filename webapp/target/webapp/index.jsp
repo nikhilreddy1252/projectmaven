@@ -3,3 +3,5 @@ Wel come to sonarqube and jfrog via jenkins.
 
 hi
 maven project with build id.
+
+implementing master and slave architecture.
